@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "base_track": "ヒトリノ夜 (Backing Track)",
+  "base_artist": "Porno Graffitti",
+  "createdAt": "2026-02-13T13:49:31.090028Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ヒトリノ夜",
+      "artist": "Porno Graffitti",
+      "has_synced": false,
+      "path": "select/01_ヒトリノ夜_Porno_Graffitti.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ヒトリノ夜",
+      "artist": "ポルノグラフィティ",
+      "has_synced": true,
+      "path": "select/02_ヒトリノ夜_ポルノグラフィティ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ヒトリノ夜",
+      "artist": "ポルノグラフィティ",
+      "has_synced": true,
+      "path": "select/03_ヒトリノ夜_ポルノグラフィティ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ヒトリノ夜",
+      "artist": "ポルノグラフィティ",
+      "has_synced": true,
+      "path": "select/04_ヒトリノ夜_ポルノグラフィティ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ヒトリノ夜",
+      "artist": "PornoGraffitti",
+      "has_synced": true,
+      "path": "select/05_ヒトリノ夜_PornoGraffitti.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ヒトリノ夜",
+      "artist": "PornoGraffitti",
+      "has_synced": true,
+      "path": "select/06_ヒトリノ夜_PornoGraffitti.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ヒトリノ夜",
+      "artist": "ポルノグラフィティ",
+      "has_synced": true,
+      "path": "select/07_ヒトリノ夜_ポルノグラフィティ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ヒトリノ夜",
+      "artist": "Porno Graffitti",
+      "has_synced": true,
+      "path": "select/08_ヒトリノ夜_Porno_Graffitti.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ヒトリノ夜 (Backing Track)",
+      "artist": "ポルノグラフィティ",
+      "has_synced": true,
+      "path": "select/09_ヒトリノ夜_(Backing_Track)_ポルノグラフィティ.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ヒトリノ夜",
+      "artist": "ポルノグラフィティ",
+      "has_synced": true,
+      "path": "select/10_ヒトリノ夜_ポルノグラフィティ.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ヒトリノ夜",
+      "artist": "PornoGraffitti",
+      "has_synced": true,
+      "path": "select/11_ヒトリノ夜_PornoGraffitti.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ヒトリノ夜",
+      "artist": "ポルノグラフィティ",
+      "has_synced": true,
+      "path": "select/12_ヒトリノ夜_ポルノグラフィティ.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ヒトリノ夜",
+      "artist": "Porno Graffitti (ポルノグラフィティ)",
+      "has_synced": true,
+      "path": "select/13_ヒトリノ夜_Porno_Graffitti_(ポルノグラフィティ).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ヒトリノ夜",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/pl_01_ヒトリノ夜_ポルノグラフィティ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ヒトリノ夜",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/pl_02_ヒトリノ夜_ポルノグラフィティ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ヒトリノ夜",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/pl_03_ヒトリノ夜_ポルノグラフィティ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "ヒトリノ夜",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/pl_04_ヒトリノ夜_ポルノグラフィティ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "ヒトリノ夜",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/pl_05_ヒトリノ夜_ポルノグラフィティ.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "ヒトリノ夜",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/pl_06_ヒトリノ夜_ポルノグラフィティ.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "ヒトリノ夜",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/pl_07_ヒトリノ夜_ポルノグラフィティ.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "ヒトリノ夜",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/pl_08_ヒトリノ夜_ポルノグラフィティ.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "ヒトリノ夜",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/pl_09_ヒトリノ夜_ポルノグラフィティ.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "ヒトリノ夜",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/pl_10_ヒトリノ夜_ポルノグラフィティ.txt"
+    }
+  ]
+}
